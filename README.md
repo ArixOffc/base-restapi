@@ -157,6 +157,9 @@ module.exports = router;
 
 ---
 
+## 🌐 Demo Website rest Api
+[Preview Website Base Rest Api](https://base-restapi-arix.vercel.app/)
+
 ## 🔍 Saran Website Pengujian API yang Direkomendasikan
 
 Website ini memudahkan pengujian dan interaksi dengan endpoint API :
